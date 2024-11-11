@@ -21,5 +21,8 @@ This is a simple Go game implementation in Java. The project includes core class
 To get started, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/username/Go_ame.git
+git clone https://github.com/AkmyradovN/Go_game.git
 cd GoGame
+
+// For run the game
+java gogame.GoSwing
